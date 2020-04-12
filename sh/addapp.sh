@@ -1,4 +1,4 @@
-#!/usr/bin/env bash 
+#!/bin/bash 
 #/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/uninstall)"
 OLD_IFS="$IFS"
 
