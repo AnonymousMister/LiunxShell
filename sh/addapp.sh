@@ -6,7 +6,7 @@ brewInstall='/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Ho
 brew="brew"
 brewCask="brew cask"
 initApp=("$brew install mas");
-caskApp="baiduinput,baidunetdisk,google-chrome,clashx,cakebrew,jetbrains-toolbox,visual-studio-code,wiznote,homebrew/cask-versions/microsoft-remote-desktop-beta,docker,bartender,postman,TeamViewer"
+caskApp="tencent-lemon,baiduinput,baidunetdisk,google-chrome,clashx,cakebrew,jetbrains-toolbox,visual-studio-code,wiznote,homebrew/cask-versions/microsoft-remote-desktop-beta,docker,bartender,postman,TeamViewer"
 
 
 install_brew(){

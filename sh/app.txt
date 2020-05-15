@@ -1,1 +1,5 @@
-baiduinput,baidunetdisk,google-chrome,clashx,cakebrew,jetbrains-toolbox,visual-studio-code,wiznote,homebrew/cask-versions/microsoft-remote-desktop-beta,docker,bartender,postman,TeamViewer
+tencent-lemon
+baidunetdisk
+google-chrome
+clashx
+cakebrew
